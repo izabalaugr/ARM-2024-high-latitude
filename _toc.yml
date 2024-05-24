@@ -20,7 +20,7 @@ parts:
   - caption: Fluxes
     chapters:
       - file: notebooks/main_flux.ipynb
-      - file: notebooks/weak_strong_latent_heat
+      - url:  https://github.com/Hseppal1/ARM-2024-high-latitude/blob/main/notebooks/weak_strong_latent_heat.html
   - caption: Models
     chapters:
       - file: notebooks/COMBLE-MIP_test.ipynb
