@@ -1,10 +1,14 @@
 <img src="thumbnail.png" alt="thumbnail" width="300"/>
 
 # ARM Summer School 2024 High Latitude Project Cookbook
+[![DOI](https://zenodo.org/badge/803956728.svg)](https://zenodo.org/doi/10.5281/zenodo.11282650)
 
 This Project Pythia Cookbook covers an analysis of the ARM NSA (Alaska) and ANX (COMBLE campaign) sites.
 
 ```{figure} BAMS_cover.jpg
+
+The Cold-Air Outbreaks in the Marine Boundary Layer Experiment (COMBLE).
+```
 
 ## Group Members
 Hannah Seppala, Shivesh S., Jordan E., Nirmal Mathew , Ines Zabala, Oye Ideki
